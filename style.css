@@ -1,0 +1,15 @@
+h1 {
+  font-size: 300%;
+  color: red;
+  background-color: yellow;
+}
+
+ul {
+  background-color: blue;
+  color: burlywood;
+}
+
+li {
+  color: black;
+  background-color: white;
+}
